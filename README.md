@@ -2,8 +2,6 @@
 ## Departamento de Estatística
 ## Universidade Federal do Espírito Santo
 
-## Hello-World do LECON
-
 **Esta é apenas uma página-web provisória do LECON. A página principal está em desenvolvimento.**
 
 O LECON possui os seguintes núcleos:
