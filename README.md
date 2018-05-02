@@ -16,5 +16,4 @@ Membros      | Email
 Nome 1       | xxx1@gmail.com
 Nome 2       | xxx2@gmail.com
 
-> *LECON. Departamento de Estatística, Centro de Ciências Exatas*
-> *Universidade Federal do Espírito Santo. Vitória ES, Brazil*
+> *LECON. Departamento de Estatística, Centro de Ciências Exatas, Universidade Federal do Espírito Santo. Vitória ES, Brazil*
