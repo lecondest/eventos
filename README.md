@@ -1,1 +1,1 @@
-LECON: hello-world
+# LECON: hello-world
